@@ -1,23 +1,24 @@
 {
-    "name": "ekart",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/kiranuidev/NODEJS-7AM-April.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/kiranuidev/NODEJS-7AM-April/issues"
-    },
-    "homepage": "https://github.com/kiranuidev/NODEJS-7AM-April#readme",
-    "dependencies": {
-        "express": "^4.15.2"
-    }
+  "name": "ekart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranuidev/NODEJS-7AM-April.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranuidev/NODEJS-7AM-April/issues"
+  },
+  "homepage": "https://github.com/kiranuidev/NODEJS-7AM-April#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
 }
